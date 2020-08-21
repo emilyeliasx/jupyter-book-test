@@ -1,0 +1,8 @@
+# Book settings
+title: Emily's Test Book
+author: The DIA
+logo: logo.jpg
+
+latex:
+  latex_documents:
+    targetname: book.tex
